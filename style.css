@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 70px;
+}
+
+.bg-dd{
+    background-color: #562EFF;
+}
+
+.navbar-brand img{
+    width: 40px;
+    height: 40px;
+}
+
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.row .cc1 img{
+    width: 70px;
+}
+
+.row .cc1 h3{
+    margin-right: 120px;
+}
+
+.row .cc2 img{
+    width: 300px;
+}
+
+.row .cc2 .h4{
+    margin-top: 500px;
+}
+
+.row .card{
+    border: none;
+}
+
+.row .card a{
+    color: black !important;
+}
+
+.tt1{
+    color: #562EFF;
+}
